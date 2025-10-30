@@ -1,0 +1,8 @@
+save_google_cookies.py
+google_cookies.pkl
+.env
+.env.*
+.DS_Store
+bot_chrome_profile/
+__pycache__/
+*.pyc
