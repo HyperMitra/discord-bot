@@ -1,2 +1,3 @@
 # discord-bot
-Discord Bot for QOL Improvement
+AI chatbot を使える
+言わせたいことを言える
